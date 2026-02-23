@@ -5,8 +5,7 @@ import json
 # 🔐 HARD-CODED OPENROUTER API KEY
 # =====================================================
 
-OPENROUTER_API_KEY = "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"
-
+OPENROUTER_API_KEY = "xx"
 # =====================================================
 # STRICT SYSTEM CONTEXT
 # =====================================================
